@@ -1,74 +1,84 @@
 {
 	"data": [
 		{
-			"name": "Bunker E15"
-			"planet": "Europa"
+			"name": "Bunker E15",
+			"planet": "Europa",
 			"shields": [
-				
-			]
+				"Legend": ["Void",]
+				"Master": ["Void",]
+			],
 		},
 		{
-			"name": "Perdition"
-			"planet": "Europa"
+			"name": "Perdition",
+			"planet": "Europa",
 			"shields": [
-				
-			]
+				"Legend": ["Arc", "Void",]
+				"Master": ["Arc", "Void",]
+			],
 		},
 		{
-			"name": "Concealed Void"
-			"planet": "Europa"
+			"name": "Concealed Void",
+			"planet": "Europa",
 			"shields": [
-				
-			]
+				"Legend": ["Void", "Solar"]
+				"Master": ["Void", "Solar"]
+			],
 		},
 		{
-			"name": "Exodus Garden"
-			"planet": "Cosmodrome"
+			"name": "Exodus Garden",
+			"planet": "Cosmodrome",
 			"shields": [
-				
-			]
+				"Legend": ["Void",]
+				"Master": ["Void",]
+			],
 		},
 		{
-			"name": "Veles Labyrinth"
-			"planet": "Cosmodrome"
+			"name": "Veles Labyrinth",
+			"planet": "Cosmodrome",
 			"shields": [
-				
-			]
+				"Legend": ["Solar", "Arc",]
+				"Master": ["Solar", "Arc",]
+			],
 		},
 		{
-			"name": "K1 Logistics"
-			"planet": "Moon"
+			"name": "K1 Logistics",
+			"planet": "Moon",
 			"shields": [
-				
-			]
+				"Legend": ["Arc", "Solar"]
+				"Master": ["Arc", "Solar"]
+			],
 		},
 		{
-			"name": "K1 Communion"
-			"planet": "Moon"
+			"name": "K1 Communion",
+			"planet": "Moon",
 			"shields": [
-				
-			]
+				"Legend": []
+				"Master": []
+			],
 		},
 		{
-			"name": "K1 Crew Quarters"
-			"planet": "Moon"
+			"name": "K1 Crew Quarters",
+			"planet": "Moon",
 			"shields": [
-				
-			]
+				"Legend": []
+				"Master": []
+			],
 		},
 		{
-			"name": "K1 Revelation"
-			"planet": "Moon"
+			"name": "K1 Revelation",
+			"planet": "Moon",
 			"shields": [
-				
-			]
+				"Legend": []
+				"Master": []
+			],
 		},
 		{
 			"name": ""
 			"planet": ""
 			"shields": [
-				
-			]
+				"Legend": []
+				"Master": []
+			],
 		},
 
 		
