@@ -1,0 +1,22 @@
+{
+  "name": "destiny2-shieldbot",
+  "version": "1.0.0",
+  "description": "Discord bot that tells you the enemy elemental shield types on Master content with Match Game",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdanHershcovich/destiny2-shieldBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IdanHershcovich/destiny2-shieldBot/issues"
+  },
+  "homepage": "https://github.com/IdanHershcovich/destiny2-shieldBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
